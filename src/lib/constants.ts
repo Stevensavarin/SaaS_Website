@@ -55,6 +55,15 @@ export const pricingCards = [
     features: ['Unlimited Sub accounts', 'Unlimited Team members'],
     priceId: 'price_1OiEQSDAEBsbA0Y22FZV4VFS',
   },
+  {
+    title: 'Priority Support',
+    description: 'Dedicated support line & teams channel for support',
+    price: '$450',
+    duration: 'month',
+    highlight: 'Everything in Starter, plus',
+    features: ['Unlimited Sub accounts', 'Unlimited Team members', 'Dedicated support line & teams channel for support'],
+    priceId: 'price_1Oji1MDAEBsbA0Y2gFkfP75O',
+  },
 ]
 
 export const addOnProducts = [
