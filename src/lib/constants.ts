@@ -61,7 +61,7 @@ export const pricingCards = [
     price: '$450',
     duration: 'month',
     highlight: 'Everything in Starter, plus',
-    features: ['Unlimited Sub accounts', 'Unlimited Team members', 'Dedicated support line & teams channel for support'],
+    features: ['All in one and more', 'Unlimited Team members', 'Dedicated support line & teams channel for support'],
     priceId: 'price_1Oji1MDAEBsbA0Y2gFkfP75O',
   },
 ]

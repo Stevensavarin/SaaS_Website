@@ -127,7 +127,7 @@ const page = async ({ params }: Props) => {
             description="Dedicated support line & teams channel for support"
             duration="/ month"
             features={[]}
-            title={'24/7 priority support'}
+            title={'24/7 Priority support'}
             highlightTitle="Get support now!"
             highlightDescription="Get priority support and skip the long long with the click of a button."
           />
