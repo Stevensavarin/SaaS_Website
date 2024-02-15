@@ -126,7 +126,7 @@ const page = async ({ params }: Props) => {
             buttonCta="Subscribe"
             description="Dedicated support line & teams channel for support"
             duration="/ month"
-            features={["All in one and more', 'Unlimited Team members', 'Dedicated support line & teams channel for support"]}
+            features={[]}
             title={'24/7 Priority Support'}
             highlightTitle="Get support now!"
             highlightDescription="Get priority support and skip the long long with the click of a button."

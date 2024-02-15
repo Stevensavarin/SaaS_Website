@@ -55,13 +55,13 @@ export default async function Home() {
             <Card
               key={card.nickname}
               className={clsx('w-[300px] flex flex-col justify-between', {
-                'border-2 border-primary': card.nickname === 'Priority Support',
+                'border-2 border-primary': card.nickname === 'Unlimited Saas',
               })}
             >
               <CardHeader>
                 <CardTitle
                   className={clsx('', {
-                    'text-muted-foreground': card.nickname !== 'Priority Support',
+                    'text-muted-foreground': card.nickname !== 'Unlimited Saas',
                   })}
                 >
                   {card.nickname}
@@ -101,7 +101,7 @@ export default async function Home() {
                     'w-full text-center bg-primary p-2 rounded-md',
                     {
                       '!bg-muted-foreground':
-                        card.nickname !== 'Priority Support',
+                        card.nickname !== 'Unlimited Saas',
                     }
                   )}
                 >
